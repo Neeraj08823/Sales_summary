@@ -1,4 +1,4 @@
-# 🛒 Basic Sales Summary Using SQLite in Python — Task 7
+# 🛒 Basic Sales Summary Using SQLite in Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
